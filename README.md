@@ -1,2 +1,2 @@
 # 2324dersteyapilanlar
-bu depoyu derste yaptıklarımız için kullanılacak
+bu depo derste yaptıklarımız için kullanılacak
